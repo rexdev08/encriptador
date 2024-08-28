@@ -1,0 +1,47 @@
+:root {
+    /* Light Blue */
+
+    --light-blue-100: #F3F5FC;
+    --light-blue-200: #EFF1FA;
+    --light-blue-300: #E9ECF8;
+    --light-blue-400: #AAB2D5;
+    --light-blue-500: #757FB2;
+
+    /* Blue */
+    --dark-blue-100: #609ED4;
+    --dark-blue-200: #356EA9;
+    --dark-blue-300: #0A3871;
+    --dark-blue-400: #072B61;
+    --dark-blue-500: #052051;
+
+    /* Gray */
+
+    --gray-100: #CED4DA;
+    --gray-100: #ADB5BD;
+    --gray-100: #868E96;
+    --gray-100: #495057;
+    --gray-100: #343A40;
+
+}
+
+
+.none {
+    display: none;
+}
+
+#btn-encriptar, #btn-desencriptar {
+    background-color: var(--dark-blue-300);
+    color: white;
+    font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: .5rem;
+
+}
+
+ #btn-desencriptar {
+    background-color: var();
+    font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: .5rem;
+
+}
